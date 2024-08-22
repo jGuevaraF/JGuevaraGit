@@ -11,6 +11,13 @@ namespace PL
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo");
+
+            int jdlkjf;
+
             Console.ReadKey();
             Console.ReadKey();
         }
