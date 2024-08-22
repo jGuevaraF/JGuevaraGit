@@ -12,6 +12,7 @@ namespace PL
         {
             Console.WriteLine("Hola Mundo");
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
